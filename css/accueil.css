@@ -3,7 +3,7 @@
 @import url("./nav.css");
 
 #Accueil{
-    padding: 15px;
+    padding: 18px;
     margin-top: 1em;
 }
 
@@ -15,6 +15,7 @@
 }
 
 #Accueil h1{
+    margin-bottom: 15px;
     text-decoration:4px underline;
     font-size: 2em;
 }
