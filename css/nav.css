@@ -74,6 +74,10 @@ footer {
     width: 100%;
 }
 
+footer a{
+    color: red;
+}
+
 footer p{
     padding:7px;
 }
